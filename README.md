@@ -4,6 +4,14 @@
 
 Digital garden documenting daily learnings and technical explorations.
 
+<!-- CTAs -->
+<p align="center">
+  <a href="https://github.com/LuisSambrano/today-i-learned/stargazers"><img src="https://img.shields.io/github/stars/LuisSambrano/today-i-learned?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/LuisSambrano/today-i-learned/network/members"><img src="https://img.shields.io/github/forks/LuisSambrano/today-i-learned?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/LuisSambrano/today-i-learned/issues"><img src="https://img.shields.io/github/issues/LuisSambrano/today-i-learned?style=flat-square" alt="Issues"/></a>
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square" alt="Contributions Welcome"/>
+</p>
+
 ## Overview
 
 This repository serves as a personal knowledge base where I document technical concepts, tools, and insights encountered during software development. Each entry represents a discrete learning moment, organized by topic and date.
