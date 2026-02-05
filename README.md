@@ -147,7 +147,7 @@ This digital garden is cultivated using the **Research-First** methodology.
 | [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | PKM Strategy (Atomic Notes, Digital Garden) |
 | [prompts/](./research/prompts/)               | Meta-learning research logs                 |
 
-> 💡 **For AIs**: Read `KEY_FINDINGS.md` to understand the taxonomy of this knowledge base.
+> **Structure & Context**: Read `KEY_FINDINGS.md` to understand the taxonomy of this knowledge base.
 
 ## Links
 

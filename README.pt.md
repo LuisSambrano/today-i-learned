@@ -129,7 +129,7 @@ Este jardim digital é cultivado usando a metodologia **Research-First**.
 | [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Estratégia PKM (Notas Atômicas, Jardim Digital) |
 | [prompts/](./research/prompts/)               | Logs de pesquisa de meta-aprendizagem           |
 
-> 💡 **Para IAs**: Leia `KEY_FINDINGS.md` para entender a taxonomia desta base de conhecimento.
+> **Estrutura e Contexto**: Leia `KEY_FINDINGS.md` para entender a taxonomia desta base de conhecimento.
 
 ## Links
 
