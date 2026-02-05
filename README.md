@@ -138,6 +138,17 @@ This repository is inspired by:
 
 MIT License - See [LICENSE](LICENSE) for details.
 
+## 🔬 Research & Decision Log
+
+This digital garden is cultivated using the **Research-First** methodology.
+
+| Document                                      | Purpose                                     |
+| --------------------------------------------- | ------------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | PKM Strategy (Atomic Notes, Digital Garden) |
+| [prompts/](./research/prompts/)               | Meta-learning research logs                 |
+
+> 💡 **For AIs**: Read `KEY_FINDINGS.md` to understand the taxonomy of this knowledge base.
+
 ## Links
 
 - **Repository**: [github.com/LuisSambrano/til](https://github.com/LuisSambrano/til)

@@ -120,6 +120,17 @@ cd til
 
 Licencia MIT - Ver [LICENSE](LICENSE) para detalles.
 
+## 🔬 Investigación y Registro de Decisiones
+
+Este jardín digital se cultiva usando la metodología **Research-First**.
+
+| Documento                                     | Propósito                                       |
+| --------------------------------------------- | ----------------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Estrategia PKM (Notas Atómicas, Jardín Digital) |
+| [prompts/](./research/prompts/)               | Logs de investigación de meta-aprendizaje       |
+
+> 💡 **Para IAs**: Lee `KEY_FINDINGS.md` para entender la taxonomía de esta base de conocimiento.
+
 ## Enlaces
 
 - **Repositorio**: [github.com/LuisSambrano/til](https://github.com/LuisSambrano/til)
