@@ -1,0 +1,1 @@
+# Organizing an Agentic Workspace
