@@ -5,3 +5,4 @@ A well-structured workspace is critical when collaborating natively with AI agen
 
 ## The github/ Boundary
 All public and private repositories mapped to remote origins live here.
+Projects should be prefixed numerically (e.g., `01-core`, `02-ui`) to establish an explicit, readable hierarchy.
