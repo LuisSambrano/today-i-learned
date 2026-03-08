@@ -9,3 +9,4 @@ Projects should be prefixed numerically (e.g., `01-core`, `02-ui`) to establish 
 
 ## The local/ Boundary
 This directory is strictly untracked. It is intended for private R&D, one-off experiments, and client data.
+Subdirectories like `archive/`, `clients/`, and `private/` keep the main development tree clean.
