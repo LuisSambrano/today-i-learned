@@ -157,3 +157,4 @@ This digital garden is cultivated using the **Research-First** methodology.
 ---
 
 **[Español](./README.es.md)** | English
+
